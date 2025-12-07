@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zander</h1>
 <h3 align="center">I'm an Undergraduate Student of Computer Engineer at ITA!</h3>
- <h3 align="center">I'm a data science and finance enthusiast. Addicted to coffee and bodybuilding.</h3>
+ <h3 align="center">I'm a data science and finance enthusiast. **Addicted to coffee**.</h3>
 
 - 📫 How to reach me **zanderbernardino@gmail.com**
 
